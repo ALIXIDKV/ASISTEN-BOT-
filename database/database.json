@@ -1,0 +1,28 @@
+{
+  "antipromosi": false,
+  "promosiList": [],
+  "promosiInterval": 3600000,
+  "promosiIntervalLabel": "1 jam",
+  "promosiGroupJid": null,
+  "store": {
+    "products": [
+      {
+        "id": 1,
+        "nama": "Produk Contoh A",
+        "harga": "Rp 50.000",
+        "dana": "081234567890",
+        "gopay": "081234567890",
+        "qris": "Hubungi owner untuk QRIS"
+      },
+      {
+        "id": 2,
+        "nama": "Produk Contoh B",
+        "harga": "Rp 100.000",
+        "dana": "081234567890",
+        "gopay": "081234567890",
+        "qris": "Hubungi owner untuk QRIS"
+      }
+    ]
+  },
+  "settings": {}
+}
